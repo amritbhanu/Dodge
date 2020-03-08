@@ -1,0 +1,10 @@
+Dataset,Samples, Smelly (%),# metrics,Nature
+cocoon,2045,92 (4.0),18,Method
+camel,5056,437 (9.0),18,Method
+qpid,5475,188 (3.0),18,Method
+cloudstack,1551,457 (29.0),18,Method
+hive,5648,22 (0.0),18,Method
+deeplearning,1434,214 (15.0),18,Method
+ofbiz,6177,1169 (19.0),18,Method
+hadoop,12191,65 (1.0),18,Method
+node,6207,1800 (29.0),18,Method

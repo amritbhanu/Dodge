@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+pandas
+scikit-learn
+nltk
+lda
+git+https://github.com/hlin117/mdlp-discretization
+plotly
