@@ -12,6 +12,9 @@ DOI -
 ## Src Directory
 - Contains all our scripts to run the code.
 
+## Intrinsic Dimensionality
+- For the code, please see my co-author's work in https://github.com/amritbhanu/intrinsic_dimension 
+
 ## Commands to Run
 - Use `pip install -r requirements.txt` to install all the python2 dependencies and package. Please use python2 to run the code, installation.
 - Inside each task, run `python main_d2h.py _test dataset`
